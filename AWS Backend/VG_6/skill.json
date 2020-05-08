@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:948167092745:function:d5a9af24-f798-4acd-9122-10104ed1aba6:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-US": {
+          "name": "VG6"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}
