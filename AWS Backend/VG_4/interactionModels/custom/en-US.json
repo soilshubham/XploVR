@@ -1,0 +1,38 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "kuala lumpur",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GetDescriptionIntent",
+          "slots": [],
+          "samples": [
+            "Where is this place located",
+            "Describe the place to me",
+            "Tell me about the city Kuala Lumpur",
+            "Tell me about Petronas Twin Towers",
+            "Tell me about the place"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}
