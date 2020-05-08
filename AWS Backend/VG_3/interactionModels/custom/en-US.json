@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "gan island",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GetDescriptionIntent",
+          "slots": [],
+          "samples": [
+            "Tell me something about the place",
+            "Give me description about Gan Island",
+            "Tell me something about Gan Island",
+            "Where is Gan Island located."
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}
