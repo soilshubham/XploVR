@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "eiffel tower",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GetDescriptionIntent",
+          "slots": [],
+          "samples": [
+            "What\u0027s the history about the place",
+            "Give me description about Eiffel Tower",
+            "Tell me something about Eiffel Tower",
+            "Tell the history of Eiffel Tower"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "3"
+}
