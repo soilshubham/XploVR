@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "arn:aws:lambda:us-east-1:948167092745:function:0fd1a3b6-785e-4c13-a92d-57e3f9037ab4:Release_0"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "publishingInformation": {
+      "category": "KNOWLEDGE_AND_TRIVIA",
+      "distributionCountries": [],
+      "isAvailableWorldwide": true,
+      "locales": {
+        "en-US": {
+          "name": "VG1"
+        }
+      },
+      "testingInstructions": "Sample Testing Instructions."
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "resort maldives",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GetDescriptionIntent",
+          "slots": [],
+          "samples": [
+            "Tell me something about the place",
+            "Where is this resort located",
+            "Give me description about this resort",
+            "Tell me something about Six Senses Laamu resort.",
+            "What is the name of this resort."
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}
