@@ -1,20 +1,33 @@
 # XploVR
 
-## Explore the world even during this pandemic !! :smiley:
-We know how the world is facing this pandemic due to **COVID-19**.
-Everyone is at home and meeting, so many **issues like people are facing stress, depression, etc**.
-Many people's summer vacation plans got shattered due to this pandemic. 
-In this hard time, we came up with a solution to this problem. 
-Our idea is to build a VR application which would **make people visit international places or tourist places** which they can't attend due to the COVID-19. 
-Our app **will also provide them information about the places they want to visit**, and along with that, what makes us different is the interaction between the user and our application. 
-The user **can ask questions related to the destination**, and he would receive an answer to the query. 
-Our approach would be to make a VR application from Unity 3D and later merging the app with Alexa skills.
-# Screen-Shots
-![Skills](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/skills.JPG)
-![Gan-Islands](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/Gan_Island.jpeg)
-![Gan-Islands](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/Gan_Island.jpeg)
-![Eiffel Tower](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/Eiffel.jpeg)
+>Explore the world even during this pandemic !! :smiley:
 
-# App Screen
-![app](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/app_3.png)
-![app](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/app_6.png)
+We know how the outbreak of **COVID-19** has created a global health crisis that has had a deep impact on the way we perceive our world and our everyday lives. Everyone is working from home and are adviced not to go out and stay inside.
+
+## About the app
+Many people had to cancle their vacation plans due to this pandemic. So we came up with a solution for this problem. Our product is a **Virtual Reality experience** which can allow people to **virtually visit various international locations all over the World** which they couldn't visit due to the outbreak. Go to places, get to know about these locations.
+## Features:
+* Virtually visit locations all around the world.
+* App tells the user about the history of the location they visit.
+* It also provides them with the necessary information about the location.
+* User can ask questions related to the location and get response within the app (using Alexa Skills).
+
+<img src="./Screenshots/app_2.png" width="600">
+<img src="./Screenshots/app_3.png" width="600">
+<img src="./Screenshots/app_4.png" width="600">
+<img src="./Screenshots/app_5.png" width="600">
+
+## Tech Stack:
+* Unity3D
+* GoogleVR
+* Alexa
+
+## Alexa-Skills
+<img src="./Screenshots/Gan_Island.jpeg" width="700">
+<img src="./Screenshots/Eiffel.jpeg" width="700">
+<img src="./Screenshots/skills.JPG" width="700">
+
+## Links:
+* [Download App](https://drive.google.com/file/d/1Gq7LWtqNps0AYHN14icCCSoSty_YAUmH/view?usp=drivesdk)
+* [Website]()
+* [Video Demo]()
