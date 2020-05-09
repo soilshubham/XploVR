@@ -9,3 +9,12 @@ Our idea is to build a VR application which would **make people visit internatio
 Our app **will also provide them information about the places they want to visit**, and along with that, what makes us different is the interaction between the user and our application. 
 The user **can ask questions related to the destination**, and he would receive an answer to the query. 
 Our approach would be to make a VR application from Unity 3D and later merging the app with Alexa skills.
+# Screen-Shots
+![Skills](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/skills.JPG)
+![Gan-Islands](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/Gan_Island.jpeg)
+![Gan-Islands](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/Gan_Island.jpeg)
+![Eiffel Tower](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/Eiffel.jpeg)
+
+# App Screen
+![app](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/app_3.png)
+![app](https://github.com/niteshbharti005101/XploVR/blob/master/Screenshots/app_6.png)
