@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "machu picchu",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GetDescriptionIntent",
+          "slots": [],
+          "samples": [
+            "Tell me about this place",
+            "Where is this place located",
+            "Tell me about South America",
+            "Tell me about Machu Picchu Peru"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "2"
+}

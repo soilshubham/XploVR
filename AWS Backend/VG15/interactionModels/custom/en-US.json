@@ -1,0 +1,37 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "alexander nevsky",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "GetDescriptionIntent",
+          "slots": [],
+          "samples": [
+            "Tell me about this place",
+            "Where is this place located",
+            "Tell me about  Potsdam Germany",
+            "Tell me about Alexander Nevsky Memorial Church Potsdam"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "3"
+}
