@@ -29,8 +29,8 @@ Many people had to cancle their vacation plans due to this pandemic. So we came 
 
 ## Links:
 * [Download App](https://drive.google.com/file/d/1Gq7LWtqNps0AYHN14icCCSoSty_YAUmH/view?usp=drivesdk)
-* [Website]()
-* [Video Demo]()
+* [Website](https://github.com/soilshubham/XploVR)
+* [Video Demo](#)
 
 
 ## Contributors ✨
